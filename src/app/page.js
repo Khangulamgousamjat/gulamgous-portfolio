@@ -91,9 +91,6 @@ export default function Home() {
 
       {!isLoading && (
         <>
-          {/* Custom interactive trailing cursor */}
-          <CustomCursor />
-
           {/* Floating glassmorphic header */}
           <Navbar activeSection={activeSection} onNavigate={handleNavigate} />
 

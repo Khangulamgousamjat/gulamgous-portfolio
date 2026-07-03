@@ -40,12 +40,7 @@ body {
   background: linear-gradient(to bottom, #06b6d4, #8b5cf6);
 }
 
-/* Hide standard cursor globally when on desktop screens */
-@media (min-width: 768px) {
-  body, a, button, input, textarea, select, [data-interactive] {
-    cursor: none !important;
-  }
-}
+
 
 /* Glassmorphism utility classes */
 .glass-panel {
