@@ -51,7 +51,7 @@ export default function Navbar({ activeSection, onNavigate }) {
               className="px-4 py-2 font-mono text-sm font-bold tracking-widest text-cyan-400 hover:text-white transition-colors cursor-pointer mr-2 border-r border-white/20"
               data-interactive
             >
-              NJ
+              GK
             </button>
 
             {/* Nav Links */}

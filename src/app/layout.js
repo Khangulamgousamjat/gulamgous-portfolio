@@ -1,10 +1,10 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Nikita Jamodkar | Cinematic 3D Developer Portfolio",
-  description: "Step into the digital universe of Nikita Jamodkar, Computer Science student, developer, and designer. Experience an immersive 3D frontend journey.",
-  keywords: ["Nikita Jamodkar", "3D Portfolio", "React Three Fiber", "Web Developer", "Computer Science", "GSAP ScrollTrigger"],
-  authors: [{ name: "Nikita Jamodkar" }],
+  title: "Gulamgous Khan | Full Stack AI Engineer Portfolio",
+  description: "Step into the digital universe of Gulamgous Khan, Full Stack AI Engineer and CSE Graduate. Experience an immersive 3D AI and Web Development journey.",
+  keywords: ["Gulamgous Khan", "Full Stack AI Engineer", "3D Portfolio", "React Three Fiber", "Gen AI", "MERN Stack", "LeetCode", "Google 2027"],
+  authors: [{ name: "Gulamgous Khan" }],
 };
 
 export default function RootLayout({ children }) {

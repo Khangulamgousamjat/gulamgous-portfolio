@@ -107,7 +107,7 @@ export default function Home() {
 
           {/* Footer bar */}
           <div className="fixed bottom-4 right-6 z-30 font-mono text-[9px] text-zinc-500 tracking-wider hidden md:block pointer-events-none select-none">
-            © {new Date().getFullYear()} NIKITA JAMODKAR. ALL RIGHTS RESERVED.
+            © {new Date().getFullYear()} GULAMGOUS KHAN. ALL RIGHTS RESERVED.
           </div>
         </>
       )}

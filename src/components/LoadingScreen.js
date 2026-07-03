@@ -76,7 +76,7 @@ export default function LoadingScreen({ onComplete }) {
               animate={{ scale: 1, opacity: 1 }}
               transition={{ duration: 0.5 }}
             >
-              <span className="font-mono text-2xl font-bold tracking-widest text-cyan-400">NJ</span>
+              <span className="font-mono text-2xl font-bold tracking-widest text-cyan-400">GK</span>
               {/* Inner glowing dot */}
               <div className="absolute bottom-6 right-6 h-2 w-2 rounded-full bg-cyan-400 animate-ping" />
             </motion.div>
